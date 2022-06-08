@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "chromatic": "^6.5.6"
+  },
+  "dependencies": {
+    "storybook": "^6.5.7"
+  },
+  "name": "test-chromatic",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006 -s public",
+    "build-storybook": "build-storybook -s public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anne-Gaelle-S/test-chromatic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anne-Gaelle-S/test-chromatic/issues"
+  },
+  "homepage": "https://github.com/Anne-Gaelle-S/test-chromatic#readme"
+}
